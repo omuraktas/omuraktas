@@ -12,7 +12,6 @@ I am a Computer Engineering student and I am learning software development step 
 ## 🛠️ Technologies
 
 ![Python](https://img.shields.io/badge/Python-Learning-blue)
-![C](https://img.shields.io/badge/C-Learning-lightgrey)
 ![Java](https://img.shields.io/badge/Java-Learning-orange)
 ![Git](https://img.shields.io/badge/Git-Learning-red)
 ![GitHub](https://img.shields.io/badge/GitHub-Active-black)
