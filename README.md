@@ -18,9 +18,10 @@ I am a Computer Engineering student and I am learning software development step 
 ![GitHub](https://img.shields.io/badge/GitHub-Active-black)
 
 ## 📌 Projects
-
-- BudgetMaster CLI
-- Python practice projects
+Python Projects
+BudgetMaster CLI
+Smart Logistics and Package Pricing Engine
+Student Information Card Project
 
 ## 📊 GitHub Stats
 
