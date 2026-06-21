@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ömür 👋
 
-<!--
-**omuraktas/omuraktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineering student and I am learning software development step by step.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Java
+- Git and GitHub
+- Problem Solving
+
+## 🛠️ Technologies
+
+![Python](https://img.shields.io/badge/Python-Learning-blue)
+![C](https://img.shields.io/badge/C-Learning-lightgrey)
+![Java](https://img.shields.io/badge/Java-Learning-orange)
+![Git](https://img.shields.io/badge/Git-Learning-red)
+![GitHub](https://img.shields.io/badge/GitHub-Active-black)
+
+## 📌 Projects
+
+- BudgetMaster CLI
+- Python practice projects
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omuraktas&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omuraktas&layout=compact&theme=tokyonight)
+
+## 📫 Contact
+
+GitHub: @omuraktas
